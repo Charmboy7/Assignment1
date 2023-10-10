@@ -3,3 +3,8 @@ Courses List
 *BCA
 *BCS
 *BCOM
+
+//new courses
+
+*BBA
+*MICRO
